@@ -1,0 +1,3 @@
+sampleName	bamLocation	bedLocation	index
+S1	s3://your-bucket/S1.unmapped.bam	s3://your-bucket/intervals.bed	0
+S2	s3://your-bucket/S2.unmapped.bam	s3://your-bucket/otherintervals.bed	1
